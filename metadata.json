@@ -1,0 +1,6 @@
+{
+  "name": "AquaMath Odyssey: Underwater Treasure Hunt & Marine Science",
+  "description": "An interactive underwater math adventure for kids to master arithmetic by opening treasure chests and collecting real marine creatures across ocean depth zones, with complete URD, PRD, SRD, and technical architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

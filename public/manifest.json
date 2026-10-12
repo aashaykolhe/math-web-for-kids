@@ -1,0 +1,24 @@
+{
+  "name": "AquaMath Odyssey",
+  "short_name": "AquaMath",
+  "description": "Underwater treasure hunt math game for kids featuring real marine science.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#032541",
+  "theme_color": "#032541",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "/icon-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
